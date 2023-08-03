@@ -1,8 +1,7 @@
 - 👋 Hi, I’m raji
 - 👀 I’m interested in ..coding.
 - 🌱 I’m currently learning .some languages like python ,c and java. ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 65673564/65673564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
